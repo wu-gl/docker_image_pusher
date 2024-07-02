@@ -5,7 +5,8 @@
 #kubernetesui/dashboard:v2.7.0
 #openebs/provisioner-localpv:3.4.0
 #openebs/node-disk-operator:2.1.0
-kubernetesui/metrics-scraper:v1.0.8
+#kubernetesui/metrics-scraper:v1.0.8
+quay.io/brancz/kube-rbac-proxy:v0.14.1
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
