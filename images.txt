@@ -9,10 +9,11 @@
 #kubernetesui/metrics-scraper:v1.0.8
 #quay.io/brancz/kube-rbac-proxy:v0.14.1
 #xhofe/alist:latest
-rancher/rancher-webhook:v0.3.11
-rancher/rancher-agent:v2.7.2
-rancher/fleet-agent:v0.6.0
-quay.io/prometheus/blackbox-exporter:v0.24.0
-quay.io/prometheus-operator/prometheus-operator:v0.65.1
+#rancher/rancher-webhook:v0.3.11
+#rancher/rancher-agent:v2.7.2
+#rancher/fleet-agent:v0.6.0
+#quay.io/prometheus/blackbox-exporter:v0.24.0
+#quay.io/prometheus-operator/prometheus-operator:v0.65.1
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
