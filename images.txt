@@ -16,6 +16,7 @@
 #quay.io/prometheus-operator/prometheus-operator:v0.65.1
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
 #rancher/fleet-agent:v0.6.0
-apache/rocketmq:5.1.4
+#apache/rocketmq:5.1.4
+rancher/fleet-agent:v0.6.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
