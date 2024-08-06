@@ -17,7 +17,7 @@
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
 #rancher/fleet-agent:v0.6.0
 #apache/rocketmq:5.1.4
-rancher/fleet-agent:v0.6.0
+#rancher/fleet-agent:v0.6.0
 redis:latest
 apache/rocketmq:4.9.7
 apacherocketmq/rocketmq-dashboard:latest
