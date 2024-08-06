@@ -18,5 +18,10 @@
 #rancher/fleet-agent:v0.6.0
 #apache/rocketmq:5.1.4
 rancher/fleet-agent:v0.6.0
+redis:latest
+apache/rocketmq:4.9.7
+apacherocketmq/rocketmq-dashboard:latest
+nacos/nacos-server:v2.3.2
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
