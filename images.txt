@@ -25,7 +25,8 @@
 #nacos/nacos-server:v2.1.2
 #rancher/rancher-agent:v2.7.2
 #redis:latest
-mongo:latest
+mongo:6.0.17
+
 
 
 #支持指定架构
