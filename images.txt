@@ -39,7 +39,9 @@
 #busybox:1.28
 #rancher/shell:v0.2.1
 #rancher/rancher-webhook:v0.5.1
-eipwork/kuboard:v3
+#eipwork/kuboard:v3
+apache/skywalking-oap-server
+apache/skywalking-ui:9.7.0
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
