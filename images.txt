@@ -34,7 +34,8 @@
 #docker.io/calico/node:v3.25.0
 #eipwork/kuboard:v4
 #busybox:1.28
-rancher/rancher:latest
+#rancher/rancher:latest
+rancher/rancher-agent:v2.9.1
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
