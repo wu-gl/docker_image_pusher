@@ -44,7 +44,8 @@
 #apache/skywalking-ui:9.7.0
 #neo4j:latest
 #apache/rocketmq:5.2.0
-elastic/filebeat:7.10.1
+#elastic/filebeat:7.10.1
+jayfong/yapi:1.9.3
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
