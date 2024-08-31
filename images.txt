@@ -47,11 +47,12 @@
 #elastic/filebeat:7.10.1
 #jayfong/yapi:1.9.3
 #20372268/sentinel:1.8.6
-prom/node-exporter:latest
-grafana/grafana:latest
-prom/alertmanager:latest
-prom/prometheus:latest
-bitnami/kube-state-metrics:latest
+#prom/node-exporter:latest
+#grafana/grafana:latest
+#prom/alertmanager:latest
+#prom/prometheus:latest
+#bitnami/kube-state-metrics:latest
+redis:5.0.12
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
