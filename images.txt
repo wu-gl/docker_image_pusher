@@ -70,7 +70,6 @@
 #quay.io/prometheus/alertmanager:v0.27.0
 #openebs/linux-utils:3.5.0
 prom/node-exporter:v0.16.0
-prom/prometheus:v2.2.1
 grafana/grafana:5.0.4
 prom/alertmanager:v0.14.0
 
