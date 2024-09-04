@@ -69,9 +69,10 @@
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
 #quay.io/prometheus/alertmanager:v0.27.0
 #openebs/linux-utils:3.5.0
-prom/node-exporter:v0.16.0
-grafana/grafana:5.0.4
-prom/alertmanager:v0.14.0
+#prom/node-exporter:v0.16.0
+#grafana/grafana:5.0.4
+#prom/alertmanager:v0.14.0
+grafana/grafana:7.2.2
 
 
 #支持指定架构
