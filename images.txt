@@ -73,7 +73,8 @@
 #grafana/grafana:5.0.4
 #prom/alertmanager:v0.14.0
 #grafana/grafana:7.2.2
-prom/node-exporter
+#prom/node-exporter
+thingsboard/tb-postgres
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
