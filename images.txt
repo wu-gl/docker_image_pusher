@@ -74,7 +74,10 @@
 #prom/alertmanager:v0.14.0
 #grafana/grafana:7.2.2
 #prom/node-exporter
-thingsboard/tb-postgres
+#thingsboard/tb-postgres
+
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
