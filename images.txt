@@ -77,7 +77,8 @@
 #thingsboard/tb-postgres
 #kubernetesui/dashboard:v2.7.0
 #kubernetesui/metrics-scraper:v1.0.8
-nacos/nacos-server:v2.4.1
+#nacos/nacos-server:v2.4.1
+nacos/nacos-mysql:5.7
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
