@@ -79,8 +79,9 @@
 #kubernetesui/metrics-scraper:v1.0.8
 #nacos/nacos-server:v2.4.1
 #nacos/nacos-mysql:5.7
-apache/rocketmq:4.9.4
-styletang/rocketmq-console-ng
+#apache/rocketmq:4.9.4
+#styletang/rocketmq-console-ng
+collabora/code
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
