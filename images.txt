@@ -81,7 +81,8 @@
 #nacos/nacos-mysql:5.7
 #apache/rocketmq:4.9.4
 #styletang/rocketmq-console-ng
-collabora/code
+#collabora/code
+linzeyi/hivision_idphotos:latest
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
