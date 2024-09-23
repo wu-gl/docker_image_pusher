@@ -84,5 +84,7 @@
 #collabora/code
 linzeyi/hivision_idphotos:latest
 
+
+#registry.cn-hangzhou.aliyuncs.com/glwu
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
