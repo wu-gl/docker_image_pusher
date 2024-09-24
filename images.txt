@@ -82,8 +82,9 @@
 #apache/rocketmq:4.9.4
 #styletang/rocketmq-console-ng
 #collabora/code
-linzeyi/hivision_idphotos:latest
-
+#linzeyi/hivision_idphotos:latest
+mongo:3.4.3
+docker.elastic.co/elasticsearch/elasticsearch:7.10.0
 
 #registry.cn-hangzhou.aliyuncs.com/glwu
 #支持指定架构
