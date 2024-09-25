@@ -86,7 +86,8 @@
 #mongo:3.4.3
 #docker.elastic.co/elasticsearch/elasticsearch:7.10.0
 #docker.elastic.co/kibana/kibana:7.10.0
-mongo:6.0.17
+#mongo:6.0.17
+mysql:5.7
 
 #registry.cn-hangzhou.aliyuncs.com/glwu
 #支持指定架构
