@@ -88,7 +88,11 @@
 #docker.elastic.co/kibana/kibana:7.10.0
 #mongo:6.0.17
 #mysql:5.7
-linzeyi/hivision_idphotos:v1.2.9
+#linzeyi/hivision_idphotos:v1.2.9
+think
+redis:latest
+
+
 
 #registry.cn-hangzhou.aliyuncs.com/glwu
 #支持指定架构
