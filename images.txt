@@ -89,8 +89,9 @@
 #mongo:6.0.17
 #mysql:5.7
 #linzeyi/hivision_idphotos:v1.2.9
-think
-redis:latest
+#think
+#redis:latest
+ghcr.io/requarks/wiki:2a
 
 
 
