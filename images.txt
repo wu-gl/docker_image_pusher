@@ -92,7 +92,8 @@
 #think
 #redis:latest
 #ghcr.io/requarks/wiki:2a
-requarks/wiki
+#requarks/wiki
+java:8
 
 
 
