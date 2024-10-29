@@ -94,7 +94,7 @@
 #ghcr.io/requarks/wiki:2a
 #requarks/wiki
 #java:8
-openjdk:11
+openjdk:8
 
 
 
