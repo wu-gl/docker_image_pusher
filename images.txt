@@ -95,7 +95,8 @@
 #requarks/wiki
 #java:8
 #openjdk:8
-openjdk:17
+#openjdk:17
+ubuntu:22.04
 
 
 
