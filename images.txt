@@ -96,7 +96,8 @@
 #java:8
 #openjdk:8
 #openjdk:17
-ubuntu:22.04
+#ubuntu:22.04
+altinity/clickhouse-server:23.8.11.29.altinitystable
 
 
 
