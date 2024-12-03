@@ -97,8 +97,8 @@
 #openjdk:8
 #openjdk:17
 #ubuntu:22.04
-altinity/clickhouse-server:23.8.11.29.altinitystable
-
+#altinity/clickhouse-server:23.8.11.29.altinitystable
+nacos/nacos-server:v2.2.3
 
 
 #registry.cn-hangzhou.aliyuncs.com/glwu
