@@ -102,7 +102,9 @@
 #node:22-alpine3.20
 #mediagis/nominatim:5.1
 #ip2location/ip2location-server:latest
-mysql:8.0.39
+#mysql:8.0.39
+elasticsearch:8.11.3
+infiniflow/ragflow:nightly-slim
 #registry.cn-hangzhou.aliyuncs.com/glwu
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
