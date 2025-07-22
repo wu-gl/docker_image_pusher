@@ -101,8 +101,8 @@
 #nacos/nacos-server:v2.2.3
 #node:22-alpine3.20
 #mediagis/nominatim:5.1
-ip2location/ip2location-server:latest
-
+#ip2location/ip2location-server:latest
+mysql:8.0.39
 #registry.cn-hangzhou.aliyuncs.com/glwu
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
