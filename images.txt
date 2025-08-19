@@ -103,8 +103,9 @@
 #mediagis/nominatim:5.1
 #ip2location/ip2location-server:latest
 #mysql:8.0.39
-elasticsearch:8.11.3
-infiniflow/ragflow:nightly-slim
-#registry.cn-hangzhou.aliyuncs.com/glwu
+#elasticsearch:8.11.3
+#infiniflow/ragflow:nightly-slim
+infiniflow/ragflow:v0.20.1-slim
+#registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.1-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
