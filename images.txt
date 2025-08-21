@@ -107,7 +107,8 @@
 #infiniflow/ragflow:nightly-slim
 #infiniflow/ragflow:v0.20.1-slim
 #infiniflow/ragflow:v0.20.3-slim
-infiniflow/infinity:v0.6.0-dev5
+#infiniflow/infinity:v0.6.0-dev5
+infiniflow/sandbox-executor-manager:latest
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
