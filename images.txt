@@ -109,7 +109,8 @@
 #infiniflow/ragflow:v0.20.3-slim
 #infiniflow/infinity:v0.6.0-dev5
 #infiniflow/sandbox-executor-manager:latest
-infiniflow/ragflow:nightly
+#infiniflow/ragflow:nightly
+apache/skywalking-oap-server:10.2.0
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
