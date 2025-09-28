@@ -117,7 +117,8 @@
 #apache/skywalking-ui:10.2.0-java21
 #20372268/jdk11-sky814:v1.0.0
 #gitlab/gitlab-ce:18.4.1-ce.0
-gitlab/gitlab-ce:18.2.7-ce.0
+#gitlab/gitlab-ce:18.2.7-ce.0
+gitlab/gitlab-ce:17.11.7-ce.0
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
