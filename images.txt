@@ -121,7 +121,8 @@
 #gitlab/gitlab-ce:17.11.7-ce.0
 #gitlab/gitlab-ce:17.8.7-ce.0
 #gitlab/gitlab-ce:17.5.5-ce.0
-wordpress:php8.3-fpm-alpine
+#wordpress:php8.3-fpm-alpine
+wordpress:php8.3
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
