@@ -123,7 +123,8 @@
 #gitlab/gitlab-ce:17.5.5-ce.0
 #wordpress:php8.3-fpm-alpine
 #wordpress:php8.3
-nginx:1.29.1
+#nginx:1.29.1
+minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
