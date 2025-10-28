@@ -127,7 +127,8 @@
 #infiniflow/ragflow:v0.20.5-slim
 #python:3.11.14-slim
 #gitlab/gitlab-ce:18.5.1-ce.0
-muccg/docker-devpi
+#muccg/docker-devpi
+muccg/devpi:latest
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
