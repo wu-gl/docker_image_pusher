@@ -129,7 +129,8 @@
 #gitlab/gitlab-ce:18.5.1-ce.0
 #muccg/docker-devpi
 #muccg/devpi:latest
-sonatype/nexus3:3.85.0-java17-alpine
+#sonatype/nexus3:3.85.0-java17-alpine
+sonatype/nexus3:3.85.0-alpine
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
