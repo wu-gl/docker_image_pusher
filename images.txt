@@ -131,8 +131,9 @@
 #muccg/devpi:latest
 #sonatype/nexus3:3.85.0-java17-alpine
 #sonatype/nexus3:3.85.0-alpine
-apache/skywalking-ui:10.2.0
-apache/skywalking-oap-server:10.2.0
+#apache/skywalking-ui:10.2.0
+#apache/skywalking-oap-server:10.2.0
+lwolf/helm-kubectl-docker
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
