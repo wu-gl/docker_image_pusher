@@ -145,7 +145,8 @@
 #milvusdb/milvus:v2.6.6-gpu
 #milvusdb/milvus:v2.6.6
 #python:3.13.11-slim
-node:22-alpine3.22
+#node:22-alpine3.22
+nginx:1.29.4
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
