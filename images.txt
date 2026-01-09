@@ -153,7 +153,8 @@
 #zilliz/attu:v2.6
 #milvusdb/milvus:v2.6.7
 #livekit/livekit-server:v1.9.10
-calciumion/new-api:latest
+#calciumion/new-api:latest
+vikunja/vikunja:latest
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
