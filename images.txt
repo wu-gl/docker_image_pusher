@@ -157,8 +157,10 @@
 #vikunja/vikunja:latest
 #kuaifan/php:swoole-8.0.rc21
 #centos:6.9
-tomcat:8.5-jdk8-temurin
+#tomcat:8.5-jdk8-temurin
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
