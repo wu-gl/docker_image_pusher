@@ -159,7 +159,8 @@
 #centos:6.9
 #tomcat:8.5-jdk8-temurin
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
-minio/minio:RELEASE.2025-09-07T16-13-09Z
+#minio/minio:RELEASE.2025-09-07T16-13-09Z
+elastic/filebeat:7.17.29
 
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
