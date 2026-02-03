@@ -160,7 +160,12 @@
 #tomcat:8.5-jdk8-temurin
 #minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
-elastic/filebeat:7.17.29
+#elastic/filebeat:7.17.29
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+milvusdb/milvus:v2.6.10
+docker.io/milvusdb/etcd:3.5.25-r1
+apachepulsar/pulsar:3.0.7
+
 
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
