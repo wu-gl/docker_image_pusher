@@ -169,17 +169,17 @@
 #minio/minio:RELEASE.2023-09-04T19-57-37Z
 #milvusdb/milvus-operator:v1.3.5
 
-milvusdb/milvus:v2.6.10
-milvusdb/heaptrack:v0.1.0
-zilliz/attu:v2.5.3
-milvusdb/etcd:3.5.25-r1
-apachepulsar/pulsar:3.0.7
-apachepulsar/pulsar:2.9.5
-bitnamilegacy/kafka:3.1.0
-bitnamilegacy/kafka-exporter-archived:1.4.2
-bitnamilegacy/jmx-exporter:0.16.1
-bitnamilegacy/zookeeper:3.7.0
-milvusdb/woodpecker:latest
+#milvusdb/milvus:v2.6.10
+#milvusdb/heaptrack:v0.1.0
+#zilliz/attu:v2.5.3
+#milvusdb/etcd:3.5.25-r1
+#apachepulsar/pulsar:3.0.7
+#apachepulsar/pulsar:2.9.5
+#bitnamilegacy/kafka:3.1.0
+#bitnamilegacy/kafka-exporter-archived:1.4.2
+#bitnamilegacy/jmx-exporter:0.16.1
+#bitnamilegacy/zookeeper:3.7.0
+#milvusdb/woodpecker:latest
 ghcr.io/huggingface/text-embeddings-inference:cpu-1.6
 
 
