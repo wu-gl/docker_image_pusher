@@ -212,7 +212,8 @@
 #apachepulsar/pulsar-manager:v0.1.0
 #apachepulsar/pulsar-dashboard
 
-python:3.11.15-slim
+#python:3.11.15-slim
+node:22-alpine3.22
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
