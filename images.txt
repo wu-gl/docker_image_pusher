@@ -213,7 +213,8 @@
 #apachepulsar/pulsar-dashboard
 
 #python:3.11.15-slim
-node:22-alpine3.22
+#node:22-alpine3.22
+eclipse-temurin:17-jdk
 #valkey/valkey:8
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
