@@ -217,7 +217,7 @@
 #eclipse-temurin:17-jdk
 #valkey/valkey:8
 #neo4j:latest
-docker.gitea.com/gitea:latest
+gitea/gitea:latest
 #registry.cn-hangzhou.aliyuncs.com/glwu/ragflow:v0.20.3-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
