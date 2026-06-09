@@ -1,5 +1,6 @@
 #支持私库
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
+node:22-alpine
 #timonwong/prometheus-webhook-dingtalk:latest
 #grafana/grafana:9.5.2
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.8.2
